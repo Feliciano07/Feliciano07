@@ -31,7 +31,7 @@
   </a> 
 </p>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Feliciano07=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feliciano07&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
