@@ -32,9 +32,7 @@
 </p>
 
 <p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feliciano07&layout=compact" alt="Feliciano07"/>
-  </a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Feliciano07=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
