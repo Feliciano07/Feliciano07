@@ -40,9 +40,6 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/fernando_del_cid/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
-  </a>
   <a href="https://www.linkedin.com/in/fernandochajon/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
   </a>
